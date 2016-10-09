@@ -1,7 +1,7 @@
 {
-  "name": "er-app",
+  "name": "React Redux Project Structure",
   "version": "1.0.0",
-  "description": "employees and resource management app",
+  "description": "React Redux Project Structure",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
